@@ -1,1 +1,1 @@
-This is git file from Ubuntu to Git Repository.
+after push file This is git file from Ubuntu to Git Repository.
